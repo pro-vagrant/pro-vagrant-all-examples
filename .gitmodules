@@ -10,3 +10,6 @@
 [submodule "chapter-02/songs-app-symfony"]
 	path = chapter-02/songs-app-symfony
 	url = https://github.com/pro-vagrant/songs-app-symfony.git
+[submodule "chapter-03/songs-app-sinatra"]
+	path = chapter-03/songs-app-sinatra
+	url = https://github.com/pro-vagrant/songs-app-sinatra.git
