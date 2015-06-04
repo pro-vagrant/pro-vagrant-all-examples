@@ -56,7 +56,7 @@ Commands
 
     git submodule add https://github.com/pro-vagrant/vagrant-box-factory-apache-git-submodules.git chapter-09/vagrant-box-factory-apache-git-submodules
 
-    !   git submodule add [URL] chapter-09/vagrant-box-factory-apache-no-submodule-antipattern
+    git submodule add https://github.com/pro-vagrant/vagrant-box-factory-apache-no-submodule-antipattern.git chapter-09/vagrant-box-factory-apache-no-submodule-antipattern
 
 ##1.10. Chapter 10
 
