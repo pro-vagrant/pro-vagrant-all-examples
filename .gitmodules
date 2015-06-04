@@ -43,3 +43,6 @@
 [submodule "chapter-07/boxcutter/ubuntu"]
 	path = chapter-07/boxcutter/ubuntu
 	url = https://github.com/pro-vagrant/ubuntu.git
+[submodule "chapter-08"]
+	path = chapter-08
+	url = https://github.com/pro-vagrant/chapter-08-examples.git

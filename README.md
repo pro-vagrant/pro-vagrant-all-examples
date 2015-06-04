@@ -36,5 +36,9 @@ Pro Vagrant - all examples
     chapter-07/boxcutter/ubuntu/
     chapter-07/using-boxcutter-ubuntu-box/
 
+## Chapter 8.
+
+    chapter-08/
+
 
 

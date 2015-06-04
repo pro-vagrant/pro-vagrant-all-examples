@@ -30,4 +30,7 @@ Commands
     git submodule add https://github.com/pro-vagrant/ubuntu.git chapter-07/boxcutter/ubuntu
 !   git submodule add [URL] chapter-07/using-boxcutter-ubuntu-box
 
+    #chapter-08
+    git submodule add https://github.com/pro-vagrant/chapter-08-examples.git chapter-08
+
 
