@@ -27,18 +27,37 @@ Pro Vagrant - all examples
     chapter-06/vagrant-jekyll-puppet/
     chapter-06/vagrant-jekyll-chef/
     chapter-06/vagrant-jekyll-ansible/
+
     chapter-06/flowers-vagrant-jekyll-shell/
 
 ## Chapter 7.
 
     chapter-07/chef/bento/
     chapter-07/using-bento-ubuntu-box/
+
     chapter-07/boxcutter/ubuntu/
     chapter-07/using-boxcutter-ubuntu-box/
 
 ## Chapter 8.
 
     chapter-08/
+
+## Chapter 9.
+
+    chapter-09/vagrant-box-factory-apache/
+    chapter-09/vagrant-box-factory-django/
+    chapter-09/vagrant-box-factory-rails/
+    chapter-09/vagrant-box-factory-symfony/
+    chapter-09/vagrant-box-factory-sinatra/
+
+    chapter-09/songs-app-rails-antipattern/
+
+    chapter-09/vagrant-box-factory-apache-git-submodules/
+
+    chapter-09/vagrant-box-factory-apache-no-submodule-antipattern/
+
+
+
 
 
 

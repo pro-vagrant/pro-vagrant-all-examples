@@ -46,3 +46,24 @@
 [submodule "chapter-08"]
 	path = chapter-08
 	url = https://github.com/pro-vagrant/chapter-08-examples.git
+[submodule "chapter-09/songs-app-rails-antipattern"]
+	path = chapter-09/songs-app-rails-antipattern
+	url = https://github.com/pro-vagrant/songs-app-rails-antipattern.git
+[submodule "chapter-09/vagrant-box-factory-apache"]
+	path = chapter-09/vagrant-box-factory-apache
+	url = https://github.com/pro-vagrant/vagrant-box-factory-apache.git
+[submodule "chapter-09/vagrant-box-factory-django"]
+	path = chapter-09/vagrant-box-factory-django
+	url = https://github.com/pro-vagrant/vagrant-box-factory-django.git
+[submodule "chapter-09/vagrant-box-factory-rails"]
+	path = chapter-09/vagrant-box-factory-rails
+	url = https://github.com/pro-vagrant/vagrant-box-factory-rails.git
+[submodule "chapter-09/vagrant-box-factory-symfony"]
+	path = chapter-09/vagrant-box-factory-symfony
+	url = https://github.com/pro-vagrant/vagrant-box-factory-symfony.git
+[submodule "chapter-09/vagrant-box-factory-sinatra"]
+	path = chapter-09/vagrant-box-factory-sinatra
+	url = https://github.com/pro-vagrant/vagrant-box-factory-sinatra.git
+[submodule "chapter-09/vagrant-box-factory-apache-git-submodules"]
+	path = chapter-09/vagrant-box-factory-apache-git-submodules
+	url = https://github.com/pro-vagrant/vagrant-box-factory-apache-git-submodules.git

@@ -33,4 +33,17 @@ Commands
     #chapter-08
     git submodule add https://github.com/pro-vagrant/chapter-08-examples.git chapter-08
 
+    #chapter-09
+    git submodule add https://github.com/pro-vagrant/vagrant-box-factory-apache.git chapter-09/vagrant-box-factory-apache
+    git submodule add https://github.com/pro-vagrant/vagrant-box-factory-django.git chapter-09/vagrant-box-factory-django
+    git submodule add https://github.com/pro-vagrant/vagrant-box-factory-rails.git chapter-09/vagrant-box-factory-rails
+    git submodule add https://github.com/pro-vagrant/vagrant-box-factory-symfony.git chapter-09/vagrant-box-factory-symfony
+    git submodule add https://github.com/pro-vagrant/vagrant-box-factory-sinatra.git chapter-09/vagrant-box-factory-sinatra
+
+    git submodule add https://github.com/pro-vagrant/songs-app-rails-antipattern.git chapter-09/songs-app-rails-antipattern
+
+    git submodule add https://github.com/pro-vagrant/vagrant-box-factory-apache-git-submodules.git chapter-09/vagrant-box-factory-apache-git-submodules
+
+!   git submodule add [URL] chapter-09/vagrant-box-factory-apache-no-submodule-antipattern
+
 
