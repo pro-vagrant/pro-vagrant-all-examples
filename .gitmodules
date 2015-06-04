@@ -73,3 +73,6 @@
 [submodule "chapter-07/using-bento-ubuntu-box"]
 	path = chapter-07/using-bento-ubuntu-box
 	url = https://github.com/pro-vagrant/using-bento-ubuntu-box.git
+[submodule "chapter-07/using-boxcutter-ubuntu-box"]
+	path = chapter-07/using-boxcutter-ubuntu-box
+	url = https://github.com/pro-vagrant/using-boxcutter-ubuntu-box.git

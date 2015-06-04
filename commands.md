@@ -38,7 +38,7 @@ Commands
     git submodule add https://github.com/pro-vagrant/bento.git chapter-07/chef/bento
     git submodule add https://github.com/pro-vagrant/using-bento-ubuntu-box.git chapter-07/using-bento-ubuntu-box
     git submodule add https://github.com/pro-vagrant/ubuntu.git chapter-07/boxcutter/ubuntu
-    !   git submodule add [URL] chapter-07/using-boxcutter-ubuntu-box
+    git submodule add https://github.com/pro-vagrant/using-boxcutter-ubuntu-box.git chapter-07/using-boxcutter-ubuntu-box
 
 ##1.8. Chapter 08
 
