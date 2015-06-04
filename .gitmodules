@@ -70,3 +70,6 @@
 [submodule "chapter-10"]
 	path = chapter-10
 	url = https://github.com/pro-vagrant/chapter-10-examples.git
+[submodule "chapter-07/using-bento-ubuntu-box"]
+	path = chapter-07/using-bento-ubuntu-box
+	url = https://github.com/pro-vagrant/using-bento-ubuntu-box.git
