@@ -13,3 +13,7 @@ Commands
     #chapter-04
     git submodule add https://github.com/pro-vagrant/new-project-chapter-04.git chapter-04/new-project-chapter-04
 
+    #chapter-05
+    git submodule add https://github.com/pro-vagrant/first-box-factory.git chapter-05/first-box-factory
+    git submodule add https://github.com/pro-vagrant/corporate-blog.git chapter-05/corporate-blog
+

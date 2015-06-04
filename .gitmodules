@@ -16,3 +16,9 @@
 [submodule "chapter-04/new-project-chapter-04"]
 	path = chapter-04/new-project-chapter-04
 	url = https://github.com/pro-vagrant/new-project-chapter-04.git
+[submodule "chapter-05/first-box-factory"]
+	path = chapter-05/first-box-factory
+	url = https://github.com/pro-vagrant/first-box-factory.git
+[submodule "chapter-05/corporate-blog"]
+	path = chapter-05/corporate-blog
+	url = https://github.com/pro-vagrant/corporate-blog.git
