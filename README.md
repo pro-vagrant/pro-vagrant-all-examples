@@ -1,10 +1,25 @@
-Pro Vagrant - all examples
-==========================
+Pro Vagrant - all the examples
+==============================
 
-## Chapter 1.
+## 1. The Book
 
+The repo contains the code explained in the book:
 
-## Chapter 2.
+Włodzimierz Gajda, *Pro Vagrant*, New York, Apress, 2015
+
+http://www.apress.com/9781484200742
+
+## 2. How to download all the examples?
+
+    git clone --recursive https://github.com/pro-vagrant/pro-vagrant-all-examples.git
+
+## 3. The Contents
+
+### 3.1. Chapter 1.
+
+This chapter does not contain any examples.
+
+### 3.2. Chapter 2.
 
     chapter-02/songs-app-angularjs/
     chapter-02/songs-app-django/
@@ -12,23 +27,23 @@ Pro Vagrant - all examples
     chapter-02/songs-app-symfony/
 
 
-## Chapter 3.
+### 3.3. Chapter 3.
 
     chapter-03/songs-app-sinatra/
 
 
-## Chapter 4.
+### 3.4. Chapter 4.
 
     chapter-04/new-project-chapter-04/
 
 
-## Chapter 5.
+### 3.5. Chapter 5.
 
     chapter-05/first-box-factory/
     chapter-05/corporate-blog/
 
 
-## Chapter 6.
+### 3.6. Chapter 6.
 
     chapter-06/vagrant-jekyll-shell/
     chapter-06/vagrant-jekyll-puppet/
@@ -38,7 +53,7 @@ Pro Vagrant - all examples
     chapter-06/flowers-vagrant-jekyll-shell/
 
 
-## Chapter 7.
+### 3.7. Chapter 7.
 
     chapter-07/chef/bento/
     chapter-07/using-bento-ubuntu-box/
@@ -47,12 +62,12 @@ Pro Vagrant - all examples
     chapter-07/using-boxcutter-ubuntu-box/
 
 
-## Chapter 8.
+### 3.8. Chapter 8.
 
     chapter-08/
 
 
-## Chapter 9.
+### 3.9. Chapter 9.
 
     chapter-09/vagrant-box-factory-apache/
     chapter-09/vagrant-box-factory-django/
@@ -67,11 +82,7 @@ Pro Vagrant - all examples
     chapter-09/vagrant-box-factory-apache-no-submodule-antipattern/
 
 
-## Chapter 10.
+### 3.10. Chapter 10.
 
     chapter-10/
-
-
-
-
 
