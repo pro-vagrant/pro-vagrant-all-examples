@@ -13,3 +13,6 @@
 [submodule "chapter-03/songs-app-sinatra"]
 	path = chapter-03/songs-app-sinatra
 	url = https://github.com/pro-vagrant/songs-app-sinatra.git
+[submodule "chapter-04/new-project-chapter-04"]
+	path = chapter-04/new-project-chapter-04
+	url = https://github.com/pro-vagrant/new-project-chapter-04.git
