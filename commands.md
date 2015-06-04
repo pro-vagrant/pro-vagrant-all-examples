@@ -17,3 +17,10 @@ Commands
     git submodule add https://github.com/pro-vagrant/first-box-factory.git chapter-05/first-box-factory
     git submodule add https://github.com/pro-vagrant/corporate-blog.git chapter-05/corporate-blog
 
+    #chapter-06
+    git submodule add https://github.com/pro-vagrant/flowers-vagrant-jekyll-shell.git chapter-06/vagrant-jekyll-shell
+    git submodule add https://github.com/pro-vagrant/vagrant-jekyll-puppet.git chapter-06/vagrant-jekyll-puppet
+    git submodule add https://github.com/pro-vagrant/vagrant-jekyll-chef.git chapter-06/vagrant-jekyll-chef
+    git submodule add https://github.com/pro-vagrant/vagrant-jekyll-ansible.git chapter-06/vagrant-jekyll-ansible
+    git submodule add https://github.com/pro-vagrant/flowers-vagrant-jekyll-shell.git chapter-06/flowers-vagrant-jekyll-shell
+

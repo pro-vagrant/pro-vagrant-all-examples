@@ -22,3 +22,18 @@
 [submodule "chapter-05/corporate-blog"]
 	path = chapter-05/corporate-blog
 	url = https://github.com/pro-vagrant/corporate-blog.git
+[submodule "chapter-06/vagrant-jekyll-shell"]
+	path = chapter-06/vagrant-jekyll-shell
+	url = https://github.com/pro-vagrant/flowers-vagrant-jekyll-shell.git
+[submodule "chapter-06/vagrant-jekyll-puppet"]
+	path = chapter-06/vagrant-jekyll-puppet
+	url = https://github.com/pro-vagrant/vagrant-jekyll-puppet.git
+[submodule "chapter-06/vagrant-jekyll-chef"]
+	path = chapter-06/vagrant-jekyll-chef
+	url = https://github.com/pro-vagrant/vagrant-jekyll-chef.git
+[submodule "chapter-06/vagrant-jekyll-ansible"]
+	path = chapter-06/vagrant-jekyll-ansible
+	url = https://github.com/pro-vagrant/vagrant-jekyll-ansible.git
+[submodule "chapter-06/flowers-vagrant-jekyll-shell"]
+	path = chapter-06/flowers-vagrant-jekyll-shell
+	url = https://github.com/pro-vagrant/flowers-vagrant-jekyll-shell.git
