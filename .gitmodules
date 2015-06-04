@@ -67,3 +67,6 @@
 [submodule "chapter-09/vagrant-box-factory-apache-git-submodules"]
 	path = chapter-09/vagrant-box-factory-apache-git-submodules
 	url = https://github.com/pro-vagrant/vagrant-box-factory-apache-git-submodules.git
+[submodule "chapter-10"]
+	path = chapter-10
+	url = https://github.com/pro-vagrant/chapter-10-examples.git

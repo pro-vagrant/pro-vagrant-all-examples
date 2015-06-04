@@ -1,6 +1,9 @@
 Pro Vagrant - all examples
 ==========================
 
+## Chapter 1.
+
+
 ## Chapter 2.
 
     chapter-02/songs-app-angularjs/
@@ -8,18 +11,22 @@ Pro Vagrant - all examples
     chapter-02/songs-app-rails/
     chapter-02/songs-app-symfony/
 
+
 ## Chapter 3.
 
     chapter-03/songs-app-sinatra/
+
 
 ## Chapter 4.
 
     chapter-04/new-project-chapter-04/
 
+
 ## Chapter 5.
 
     chapter-05/first-box-factory/
     chapter-05/corporate-blog/
+
 
 ## Chapter 6.
 
@@ -30,6 +37,7 @@ Pro Vagrant - all examples
 
     chapter-06/flowers-vagrant-jekyll-shell/
 
+
 ## Chapter 7.
 
     chapter-07/chef/bento/
@@ -38,9 +46,11 @@ Pro Vagrant - all examples
     chapter-07/boxcutter/ubuntu/
     chapter-07/using-boxcutter-ubuntu-box/
 
+
 ## Chapter 8.
 
     chapter-08/
+
 
 ## Chapter 9.
 
@@ -56,6 +66,10 @@ Pro Vagrant - all examples
 
     chapter-09/vagrant-box-factory-apache-no-submodule-antipattern/
 
+
+## Chapter 10.
+
+    chapter-10/
 
 
 

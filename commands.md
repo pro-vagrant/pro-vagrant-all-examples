@@ -46,4 +46,5 @@ Commands
 
 !   git submodule add [URL] chapter-09/vagrant-box-factory-apache-no-submodule-antipattern
 
-
+    #chapter-10
+    git submodule add https://github.com/pro-vagrant/chapter-10-examples.git chapter-10
