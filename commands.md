@@ -61,3 +61,9 @@ Commands
 ##1.10. Chapter 10
 
     git submodule add https://github.com/pro-vagrant/chapter-10-examples.git chapter-10
+
+#2. Commands used to create zipped archive
+
+I used git-archive-all script written in Python: https://github.com/Kentzo/git-archive-all
+
+    ~/bin/git-archive-all/git-archive-all  --force-submodules build/pro-vagrant-v0.1.0.zip
