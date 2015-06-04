@@ -24,3 +24,10 @@ Commands
     git submodule add https://github.com/pro-vagrant/vagrant-jekyll-ansible.git chapter-06/vagrant-jekyll-ansible
     git submodule add https://github.com/pro-vagrant/flowers-vagrant-jekyll-shell.git chapter-06/flowers-vagrant-jekyll-shell
 
+    #chapter-07
+    git submodule add https://github.com/pro-vagrant/bento.git chapter-07/chef/bento
+!   git submodule add [URL] chapter-07/using-bento-ubuntu-box
+    git submodule add https://github.com/pro-vagrant/ubuntu.git chapter-07/boxcutter/ubuntu
+!   git submodule add [URL] chapter-07/using-boxcutter-ubuntu-box
+
+

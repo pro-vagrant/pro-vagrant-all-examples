@@ -37,3 +37,9 @@
 [submodule "chapter-06/flowers-vagrant-jekyll-shell"]
 	path = chapter-06/flowers-vagrant-jekyll-shell
 	url = https://github.com/pro-vagrant/flowers-vagrant-jekyll-shell.git
+[submodule "chapter-07/chef/bento"]
+	path = chapter-07/chef/bento
+	url = https://github.com/pro-vagrant/bento.git
+[submodule "chapter-07/boxcutter/ubuntu"]
+	path = chapter-07/boxcutter/ubuntu
+	url = https://github.com/pro-vagrant/ubuntu.git

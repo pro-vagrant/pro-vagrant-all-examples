@@ -29,5 +29,12 @@ Pro Vagrant - all examples
     chapter-06/vagrant-jekyll-ansible/
     chapter-06/flowers-vagrant-jekyll-shell/
 
+## Chapter 7.
+
+    chapter-07/chef/bento/
+    chapter-07/using-bento-ubuntu-box/
+    chapter-07/boxcutter/ubuntu/
+    chapter-07/using-boxcutter-ubuntu-box/
+
 
 
